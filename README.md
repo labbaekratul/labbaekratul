@@ -1,6 +1,6 @@
 ### Hi there 👋, Labbaek ratul
 ####  Software Developerment
-![ Software Developerment](https://pbs.twimg.com/profile_images/1490187955994247168/0__k5GQi_400x400.jpg)
+![ Software Developerment](https://pbs.twimg.com/profile_banners/1339223496052772864/1611744711/600x200)
 
 I'm Labbaek Ratul from Bangladesh, and I'm a full-stack web and mobile application developer. i have completed my graduation on Computer Information System(CIS) from American International University-Bangladesh. I have 2 years of working experience as a software developer, and i really enjoy to learn new technologies like react, react native, vue, next.js, GraphQL, node, etc.
 
