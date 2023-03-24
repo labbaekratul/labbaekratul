@@ -9,7 +9,7 @@ I'm Labbaek Ratul, a full-stack software engineer. I have completed my graduatio
 
 ## SKILLS
  </a> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,bootstrap,tailwind,materialui,react,next,vue,node,deno,express,nest,git,github,githubactions,jest,mongodb,postgres,prisma,graphql,netlify,heroku,vercel,linux,aws,docker,kubernetes,nginx" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,bootstrap,tailwind,materialui,react,nextjs,vue,nodejs,deno,express,nest,git,github,githubactions,jest,mongodb,postgres,prisma,graphql,netlify,heroku,vercel,linux,aws,docker,kubernetes,nginx" />
   </a>
 
 
