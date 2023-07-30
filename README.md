@@ -2,10 +2,13 @@
 #### Software Engineer
 ![ Software Developerment](https://pbs.twimg.com/profile_banners/1339223496052772864/1611744711/600x200)
 
-I'm Labbaek Ratul, a full-stack software engineer. I have completed my graduation with a B.S.c in Computer Information System (CIS) from American International University-Bangladesh. I have 3 years of experience working as both a frontend and backend web developer, and I enjoy learning new technologies.
+Labbaek Ratul, a full-stack software engineer with 3 years of experience in both frontend and backend web development, I find great pleasure in continuously expanding my knowledge by learning and adopting new technologies. My passion for creating innovative solutions drives me to stay up-to-date with the latest industry trends and best practices. I believe that my diverse skill set and dedication to growth make me an asset in delivering high-quality software products and contributing effectively to any development team. I am excited about the endless possibilities in the world of technology and look forward to taking on new challenges and honing my expertise further.
 
-- 🔭 I’m currently working on Oikko Foundation as Tech Lead 
-- 🌱 I’m currently learning microservices, NATS, Kubernetes, AWS cloudes, etc
+- 🔭 I’m currently working at Oikko Foundation as a Tech Lead.
+- 🌱 I’m currently focused on advancing my expertise in microservices architecture, Kafka (a distributed streaming platform), Kubernetes (container orchestration platform), AWS cloud services, and other related technologies.
+In my role as a Tech Lead at Oikko Foundation, I lead and oversee technical projects, ensuring their successful implementation and delivery. My current learning journey involves exploring the intricacies of microservices, understanding the capabilities of Kafka as a distributed streaming platform, and honing my skills in managing containerized applications using Kubernetes. Additionally, I am actively deepening my knowledge of AWS cloud services, harnessing its vast array of tools and services to build scalable and resilient applications.
+
+I am committed to staying at the forefront of technological advancements and leveraging this knowledge to drive innovation and excellence within the organization. The opportunities presented by these technologies excite me, and I am eager to apply them effectively in my work to contribute to the success of Oikko Foundation's projects and objectives.
 
 ## SKILLS
  </a> <a href="https://skillicons.dev">
